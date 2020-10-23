@@ -1,2 +1,2 @@
 # Quad-Copter
-A Game developed in igraphics
+A IGraphics Game developed in Visual Studio
